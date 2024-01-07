@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+NextJS | Tailwind CSS | Framer Motion | TypeScript | Tsparticles
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**HOME**
+<img width="1243" alt="Screenshot 2023-09-26 at 15 24 51" src="https://github.com/ratasi/portfolio-yt/assets/16082370/af587aeb-4743-4a9e-b13e-cca8d9aa5665">
 
-## Learn More
+**ABOUT**
+<img width="1680" alt="Screenshot 2023-09-26 at 15 28 02" src="https://github.com/ratasi/portfolio-yt/assets/16082370/b17ce9a2-fda4-4420-b377-b2c75504c0f8">
 
-To learn more about Next.js, take a look at the following resources:
+**SERVICES**
+<img width="1680" alt="Screenshot 2023-09-26 at 15 28 30" src="https://github.com/ratasi/portfolio-yt/assets/16082370/5f791a58-2162-4852-a0f1-4c97c8a428ed">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**WORKS**
+<img width="1680" alt="Screenshot 2023-09-26 at 15 28 53" src="https://github.com/ratasi/portfolio-yt/assets/16082370/53595ce2-2ebe-4e28-a8d4-3d7dec3832a6">
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**TESTIMONIALS**
+<img width="1680" alt="Screenshot 2023-09-26 at 15 29 13" src="https://github.com/ratasi/portfolio-yt/assets/16082370/a18838bb-3f6e-453e-9ba7-549cdb5d6b3a">

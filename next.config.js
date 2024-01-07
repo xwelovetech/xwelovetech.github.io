@@ -1,10 +1,6 @@
 /** @type {import('next').NextConfig} */
-const isProd = process.env.NODE_ENV === "production";
 const nextConfig = {
-  basePath: isProd ? "/app" : "",
-  output: "export",
-  distDir: "dist",
-  images: { unoptimized: true },
+  distDir: "build",
 };
 
 module.exports = nextConfig;
